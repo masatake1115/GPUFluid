@@ -1,1 +1,0 @@
-# masatake1115ttt.github.io
