@@ -1,3 +1,3 @@
 # [**GPUFluid**](https://bitbucket.org/masayan1115/gpufluid/)
 
-![thumbnail](https://bitbucket.org/masayan1115/gpufluid/raw/5c6c29aee73c4fb628903dc49edf226909483732/media/GPUFluid2D.gif?raw=true)
+https://bitbucket.org/masayan1115/gpufluid/raw/18cc658d95382ef09f6d4f904a88ad314c2bf2d3/media/GPUFluid2D.mp4
